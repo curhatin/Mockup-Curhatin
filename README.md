@@ -16,7 +16,7 @@
 ![desc](./Pictures/PeopleStoryDetail.png)
 
 ## COMMENT PAGE 
-![desc](./Pictures/Comment.png)
+![desc](./Pictures/CommentPage.png)
 
 ## CREATE STORY 
 ![desc](./Pictures/CreateStory.png)
