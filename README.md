@@ -1,4 +1,4 @@
 # CURHATIN MOCKUP 
 
 ## HOME PAGE 
-![alt text](./pictures/HomePage.png)
+![Home Page] (/pictures/HomePage.png)
